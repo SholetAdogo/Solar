@@ -73,6 +73,16 @@ body {
     width: 200px;
     text-align: center;
   }
+
+.image-container {
+    background-image: url('bulb.webp');
+    background-size: cover;
+    background-position: left center;
+    height: 500px;
+    width: 100%;
+  }
+  
+  
   
   .Feedback {
     background-color: #ecf0f1;
